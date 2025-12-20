@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# Author: https://github.com/Ryan-Adams57
+# Author: Ryan Adams
 # Based on original work by Sean Rabbit
 # Purpose: Install Jamf Connect Login with verification and fallback support
 #
