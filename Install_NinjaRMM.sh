@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: https://github.com/Ryan-Adams57
+# Author: Ryan Adams
 # Purpose: Install the NinjaRMM (NinjaOne) agent on macOS
 #
 # Update the variables below to match your NinjaOne environment.
